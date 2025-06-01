@@ -29,4 +29,3 @@ def case01(s):
 value01 = input("输入数据类型：")
 print(f"数值是{case01(value01)}")
 print("110")
-print("999")
